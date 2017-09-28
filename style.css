@@ -198,7 +198,20 @@ span.intro-dark {
 .portfolio-section {
 	background-color: #252827;
 	color: #C2DED5;
+	clear: both;
 
+}
+
+.inner-wrapper img {
+	float: left;
+}
+
+.inner-wrapper2 img {
+	float: right;
+}
+
+.inner-wrapper {
+	
 }
 
 
